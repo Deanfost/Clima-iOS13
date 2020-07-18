@@ -9,6 +9,7 @@ Simple but robust example of an iOS codebase. Completed version of the Clima pro
 * CoreLocation
 * Code orgnaization using extensions
 * Proper URL building using URLComponents
+* Parsing JSON with the Decodable protocol
 
 ## Noteworthy UIKit and Storyboard Practices
 * SFSymbols
